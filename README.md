@@ -3,10 +3,20 @@
 </div>
 <h1>
   Olá, sou o Gabriel Amorim
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 ---
 
 ### :man_technologist: About Me:
                                          
-Sou programador BackEnd/Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de Brasília.                                                                                 
+- Sou estudante de Engenharia de Computação <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> na Universidade de Brasília (UnB).
+- Atualmente, a procura de um estágio para computação.
+- :mailbox:Como entrar em contato: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielamorimsoarss/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=80 height=80/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width=80 height=80 />  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=80 height=80 /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=80 height=80 />                                          </div>
