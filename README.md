@@ -7,14 +7,14 @@
 </h1>
 ---
 
-### :man_technologist: About Me:
+### :man_technologist: Sobre mim:
                                          
 - Sou estudante de Engenharia de Computação <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> na Universidade de Brasília (UnB).
 - Atualmente, a procura de um estágio para computação.
 - :mailbox:Como entrar em contato: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielamorimsoarss/)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Linguagens de Programação:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=80 height=80/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width=80 height=80 />  
