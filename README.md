@@ -19,4 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width=80 height=80/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" width=80 height=80 />  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width=80 height=80 /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=80 height=80 />                                          </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width=80 height=80 />                                          
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width=80 height=80 />
+  </div>
