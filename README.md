@@ -9,7 +9,7 @@
 
 ### :man_technologist: Sobre mim:
                                     
-- Trabalho como Assessor III no Banco do Brasil, DITEC.
+- Trabalho como Assessor de TI III no Banco do Brasil, DITEC.
 - Sou estudante de Engenharia de Computação <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> na Universidade de Brasília (UnB).
 - :mailbox:Como entrar em contato: [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielamorimsoarss/)
 ---
