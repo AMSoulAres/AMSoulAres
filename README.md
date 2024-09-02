@@ -9,7 +9,7 @@
 
 ### :man_technologist: Sobre mim:
                                     
-- Trabalho como Assessor de TI III no Banco do Brasil, DITEC.
+- Trabalho como Assessor de TI II no Banco do Brasil, DITEC. <img src="https://github.com/Tgentil/Bancos-em-SVG/blob/main/Banco%20do%20Brasil%20S.A/banco-do-brasil-com-fundo.svg" width=16/>
 - Sou estudante de Engenharia de Computação <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> na Universidade de Brasília (UnB).
 - :mailbox:Como entrar em contato: <a href="[https://www.linkedin.com/in/devssaurinho](https://www.linkedin.com/in/gabrielamorimsoarss/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://instagram.com/gabrielgabel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 ---
